@@ -1,0 +1,10 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('https://images.wallpaperscraft.com/image/laptop_keyboard_glow_170138_1366x768.jpg');
+  background-size: cover;
+  background-position: center center;
+}

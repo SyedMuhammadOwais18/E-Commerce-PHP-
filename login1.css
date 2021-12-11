@@ -1,0 +1,10 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url('https://1.bp.blogspot.com/-PLb9cSd2rpw/XnYlOcQRg4I/AAAAAAAAo4E/jyJ96fAjp1oMJO2fxPsezeIxGhYEKRmggCLcBGAsYHQ/s2560/neon_glow_system_161925_2560x1440.jpg');
+  background-size: cover;
+  background-position: center center;
+}

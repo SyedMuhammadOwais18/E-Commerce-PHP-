@@ -1,0 +1,14 @@
+.navbar-light .nav-item.active .nav-link{
+    color: white;    
+}
+.navbar-light .nav-link{
+    color: #e1e1e1;
+}
+.navbar-light {
+    background-color: #0d47a1;
+}
+
+.navbar-light .nav-item:focus .nav-link,
+.navbar-light .nav-item:hover .nav-link{
+    color: black;
+}
